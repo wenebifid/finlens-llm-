@@ -35,6 +35,8 @@ The notebook includes:
 
 ---
 
+## Demo Video: https://youtu.be/s6FvNc7l-hc
+
 ## Dataset
 
 The dataset consists of 1,200 synthetic SME financial examples.

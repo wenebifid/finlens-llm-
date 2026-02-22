@@ -1,4 +1,3 @@
-Here is your content properly formatted as a clean **GitHub README.md**, with no wording changed — only structure and spacing improved.
 
 ---
 
